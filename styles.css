@@ -1,0 +1,18 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,
+.bg-grey-80 {
+    text-align: center;
+    color: aliceblue;
+}
+
+.small-image {
+    width: 250px;
+    height: auto;
+}
+
+.bg-grey-80 {
+    background-color: rgba(128, 128, 128, 0.8);
+}
