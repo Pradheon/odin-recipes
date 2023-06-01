@@ -38,8 +38,10 @@ ol {
 }
 
 .small-image {
-    width: 250px;
-    height: auto;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    margin-right: auto;
 }
 
 .card {
@@ -78,7 +80,7 @@ ol {
 
 .large-card {
     background: rgb(240, 240, 240);
-    width: 100%;
+    width: 98%;
     height: 300px;
     margin: 16px 10px;
     padding: 8px;
